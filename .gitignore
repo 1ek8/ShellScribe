@@ -12,7 +12,7 @@ target/
 
 .repomixignore
 repomix-output.xml
-# .codecrafters
-# README.md
-# your_program.sh
-# codecrafters.yml
+.codecrafters
+README.md
+your_program.sh
+codecrafters.yml
